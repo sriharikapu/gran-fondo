@@ -1,4 +1,4 @@
-# Gran Fondo
+# Gran Fondo - ETHDenver Hackathon Submission
 A Commitment Device for Athletic Performance
 
 **Login Screen**
